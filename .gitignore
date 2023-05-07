@@ -215,4 +215,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# mysql_data
+mysql_data/
+
+# docker-compose
+docker-compose.yml
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,node
